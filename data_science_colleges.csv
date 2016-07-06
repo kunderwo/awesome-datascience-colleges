@@ -385,11 +385,15 @@ University of North Texas,MS - Business Analytics,M,F,T,US,TX,Denton,College of 
 University of Utah,MS in Computing: Data Management & Analysis,M,T,T,US,UT,Salt Lake City,School of Computing,http://www.cs.utah.edu/graduate/hb2014-15/gradhbk2014-15-ms-guidelines/
 Westminster College,Minor in Data Science,B,F,T,US,UT,Salt Lake City,Data Science,https://catalog.westminstercollege.edu/undergraduate2016-2017/data-science-data/
 George Mason University,Spatial Business Intelligence Graduate Certificate,C,T,F,US,VA,Fairfax,School of Management,http://catalog.gmu.edu/preview_program.php?catoid=5&poid=3296&returnto=85
-George Mason University,MS in Computational Science,M,F,T,US,VA,Fairfax,"School of Physics, Astronomy, and Computational Sciences",http://spacs.gmu.edu/ms-in-computational-science/
-George Mason University,Computational Data Sciences Minor,B,F,T,US,VA,Fairfax,"School of Physics, Astronomy, and Computational Sciences",http://spacs.gmu.edu/minor-in-computational-and-data-sciences/
-George Mason University,Computational Sciences and Informatics,D,F,T,US,VA,Fairfax,"School of Physics, Astronomy, and Computational Sciences",http://spacs.gmu.edu/phd-in-computational-sciences-and-informatics/
+George Mason University,MS in Computational Science,M,F,T,US,VA,Fairfax,"Department of Computational and Data Sciences",https://cos.gmu.edu/cds/ms-in-computational-science/ 
+George Mason University,Computational Data Sciences Minor,B,F,T,US,VA,Fairfax,"Department of Computational and Data Sciences",https://cos.gmu.edu/cds/minor-in-computational-and-data-sciences/ 
+George Mason University,Computational Sciences and Informatics,D,F,T,US,VA,Fairfax,“Department of Computational and Data Sciences”, https://cos.gmu.edu/cds/phd-in-computational-sciences-and-informatics/ 
 George Mason University,MS in Data Analytics Engineering,M,T,F,US,VA,Fairfax,Volgenau School of Engineering,http://volgenau.gmu.edu/dae
 George Mason University,Masters in Information Systems,M,F,T,US,VA,Fairfax,Department of Computer Science,https://cs.gmu.edu/programs/masters/infs/
+George Mason University, BS in Computational and Data Sciences,VA, Fairfax, “Department of Computational and Data Sciences”, https://cos.gmu.edu/cds/bs-in-computational-and-data-sciences-2/
+George Mason University, Certificate in Computational Social Science,VA, Fairfax, “Department of Computational and Data Sciences”, https://cos.gmu.edu/cds/graduate-certificate-in-computational-social-science/
+George Mason University, MAIS in Computational Social Science,VA,Fairfax “College of Humanities and Social Sciences”, http://mais.gmu.edu/programs/la-mais-css
+George Mason University, PhD in Computational Social Science,VA,Fairfax, “Department of Computational and Data Sciences”, https://cos.gmu.edu/cds/phd-in-computational-social-science/ 
 Radford University,MS in Data and Information Management,M,T,F,US,VA,Radford,College of Science and Technology: Department of Information Technology,http://www.radford.edu/content/csat/home/daim/about.html
 University of Virginia,Master of Science in Data Science (MSDS),M,T,F,US,VA,Charlottesville,Data Science Institute,http://dsi.virginia.edu/academics
 Virginia Commonwealth University,"Master of Science in Business, concentration in Decision Sciences and Business Analytics",M,F,T,US,VA,Richmond,School of Business,http://www.pubapps.vcu.edu/bulletins/prog_search/?did=20172
